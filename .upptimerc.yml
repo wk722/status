@@ -7,6 +7,10 @@ sites:
     url: https://www.google.com
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: SourceHut Git
+    url: https://git.sr.ht/
+  - name: Linkhut
+    url: https://ln.ht/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
