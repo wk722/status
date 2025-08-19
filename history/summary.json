@@ -58,9 +58,9 @@
     "url": "https://git.sr.ht/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sr.ht.ico",
     "slug": "source-hut-git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 904,
     "timeMonth": 835,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 0
+    }
   },
   {
     "name": "linkhut",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ln.ht.ico",
     "slug": "linkhut",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 888,
     "timeDay": 1059,
     "timeWeek": 958,
