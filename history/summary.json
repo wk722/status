@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.sr.ht.ico",
     "slug": "source-hut-git",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 1093,
-    "timeWeek": 922,
-    "timeMonth": 846,
-    "timeYear": 832,
+    "uptime": "99.93%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.93%",
+    "time": 831,
+    "timeDay": 903,
+    "timeWeek": 895,
+    "timeMonth": 842,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 79
     }
   },
   {
