@@ -13,6 +13,16 @@ sites:
     url: https://git.sr.ht/
   - name: linkhut
     url: https://ln.ht/
+  - name: Castlery SG
+    url: https://www.castlery.com/sg
+  - name: Castlery AU
+    url: https://www.castlery.com/au
+  - name: Castlery US
+    url: https://www.castlery.com/us
+  - name: Castlery CA
+    url: https://www.castlery.com/ca
+  - name: Castlery UK
+    url: https://www.castlery.com/uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
