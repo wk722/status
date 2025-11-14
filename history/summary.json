@@ -99,19 +99,19 @@
     "url": "https://www.castlery.com/sg",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-sg",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
-    "time": 2615,
-    "timeDay": 2471,
-    "timeWeek": 2615,
-    "timeMonth": 2615,
-    "timeYear": 2615,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 2726,
+    "timeDay": 2632,
+    "timeWeek": 2726,
+    "timeMonth": 2726,
+    "timeYear": 2726,
     "dailyMinutesDown": {
-      "2025-11-14": 17
+      "2025-11-14": 30
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "https://www.castlery.com/au",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-au",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2572,
-    "timeDay": 2480,
-    "timeWeek": 2572,
-    "timeMonth": 2572,
-    "timeYear": 2572,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 2499,
+    "timeDay": 2413,
+    "timeWeek": 2499,
+    "timeMonth": 2499,
+    "timeYear": 2499,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 13
     }
   },
   {
