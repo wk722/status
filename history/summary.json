@@ -99,19 +99,19 @@
     "url": "https://www.castlery.com/sg",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-sg",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2684,
-    "timeDay": 2429,
-    "timeWeek": 2684,
-    "timeMonth": 2684,
-    "timeYear": 2684,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 2731,
+    "timeDay": 2577,
+    "timeWeek": 2731,
+    "timeMonth": 2731,
+    "timeYear": 2731,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 17
     }
   },
   {
@@ -155,19 +155,19 @@
     "url": "https://www.castlery.com/ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-ca",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2449,
-    "timeDay": 3156,
-    "timeWeek": 2449,
-    "timeMonth": 2449,
-    "timeYear": 2449,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 2068,
+    "timeDay": 2412,
+    "timeWeek": 2068,
+    "timeMonth": 2068,
+    "timeYear": 2068,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 17
     }
   },
   {
@@ -175,19 +175,19 @@
     "url": "https://www.castlery.com/uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-uk",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1194,
-    "timeDay": 1033,
-    "timeWeek": 1194,
-    "timeMonth": 1194,
-    "timeYear": 1194,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 1359,
+    "timeDay": 1306,
+    "timeWeek": 1359,
+    "timeMonth": 1359,
+    "timeYear": 1359,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 17
     }
   }
 ]
