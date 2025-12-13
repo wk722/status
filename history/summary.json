@@ -4,18 +4,20 @@
     "url": "https://www.google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 93,
-    "timeWeek": 94,
-    "timeMonth": 255,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "time": 153,
+    "timeDay": 298,
+    "timeWeek": 145,
+    "timeMonth": 268,
+    "timeYear": 153,
+    "dailyMinutesDown": {
+      "2025-12-13": 0
+    }
   },
   {
     "name": "BazQux Reader",
@@ -31,7 +33,7 @@
     "time": 653,
     "timeDay": 630,
     "timeWeek": 578,
-    "timeMonth": 629,
+    "timeMonth": 632,
     "timeYear": 653,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 316,
     "timeDay": 315,
     "timeWeek": 401,
-    "timeMonth": 305,
+    "timeMonth": 303,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 849,
     "timeDay": 809,
     "timeWeek": 677,
-    "timeMonth": 843,
+    "timeMonth": 849,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-10-22": 79
@@ -87,7 +89,7 @@
     "time": 1074,
     "timeDay": 869,
     "timeWeek": 1528,
-    "timeMonth": 1092,
+    "timeMonth": 1103,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2025-09-29": 32,
@@ -108,7 +110,7 @@
     "time": 3143,
     "timeDay": 3679,
     "timeWeek": 3501,
-    "timeMonth": 3143,
+    "timeMonth": 3142,
     "timeYear": 3143,
     "dailyMinutesDown": {
       "2025-11-14": 17
@@ -128,7 +130,7 @@
     "time": 2865,
     "timeDay": 2903,
     "timeWeek": 3107,
-    "timeMonth": 2865,
+    "timeMonth": 2868,
     "timeYear": 2865,
     "dailyMinutesDown": {}
   },
@@ -146,7 +148,7 @@
     "time": 913,
     "timeDay": 400,
     "timeWeek": 583,
-    "timeMonth": 913,
+    "timeMonth": 918,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2025-11-25": 40
@@ -166,7 +168,7 @@
     "time": 1234,
     "timeDay": 705,
     "timeWeek": 781,
-    "timeMonth": 1234,
+    "timeMonth": 1240,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2025-11-14": 17
@@ -186,7 +188,7 @@
     "time": 1622,
     "timeDay": 1397,
     "timeWeek": 1487,
-    "timeMonth": 1622,
+    "timeMonth": 1625,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2025-11-14": 17
