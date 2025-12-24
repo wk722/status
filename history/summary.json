@@ -119,18 +119,20 @@
     "url": "https://www.castlery.com/au",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2877,
-    "timeDay": 3845,
-    "timeWeek": 2885,
-    "timeMonth": 2821,
-    "timeYear": 2877,
-    "dailyMinutesDown": {}
+    "time": 2826,
+    "timeDay": 2205,
+    "timeWeek": 2595,
+    "timeMonth": 2748,
+    "timeYear": 2826,
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "Castlery US",
