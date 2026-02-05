@@ -103,9 +103,9 @@
     "url": "https://www.castlery.com/sg",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-sg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -115,6 +115,7 @@
     "timeMonth": 3289,
     "timeYear": 3259,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2025-11-14": 17
     }
   },
@@ -123,9 +124,9 @@
     "url": "https://www.castlery.com/au",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,16 +135,18 @@
     "timeWeek": 2686,
     "timeMonth": 2822,
     "timeYear": 2783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-05": 0
+    }
   },
   {
     "name": "Castlery US",
     "url": "https://www.castlery.com/us",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -153,6 +156,7 @@
     "timeMonth": 579,
     "timeYear": 734,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2025-11-25": 40
     }
   },
@@ -161,9 +165,9 @@
     "url": "https://www.castlery.com/ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -173,6 +177,7 @@
     "timeMonth": 880,
     "timeYear": 1081,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2025-11-14": 17
     }
   },
@@ -181,9 +186,9 @@
     "url": "https://www.castlery.com/uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -193,6 +198,7 @@
     "timeMonth": 1410,
     "timeYear": 1569,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2025-11-14": 17
     }
   }
