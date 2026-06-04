@@ -123,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-sg",
     "status": "up",
-    "uptime": "97.91%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.91%",
+    "uptime": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.92%",
     "time": 2939,
     "timeDay": 1273,
     "timeWeek": 2619,
@@ -139,8 +139,7 @@
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
-      "2026-02-05": 438,
-      "2026-06-04": 6
+      "2026-02-05": 438
     }
   },
   {
@@ -150,9 +149,9 @@
     "slug": "castlery-au",
     "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.91%",
     "time": 2618,
     "timeDay": 1353,
@@ -165,8 +164,7 @@
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 438,
-      "2026-02-11": 40,
-      "2026-06-04": 6
+      "2026-02-11": 40
     }
   },
   {
@@ -176,9 +174,9 @@
     "slug": "castlery-us",
     "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.91%",
     "time": 689,
     "timeDay": 410,
@@ -191,8 +189,7 @@
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
-      "2026-02-05": 438,
-      "2026-06-04": 6
+      "2026-02-05": 438
     }
   },
   {
@@ -201,11 +198,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-ca",
     "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.88%",
+    "uptime": "97.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.89%",
     "time": 974,
     "timeDay": 712,
     "timeWeek": 861,
@@ -218,8 +215,7 @@
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 438,
-      "2026-02-25": 92,
-      "2026-06-04": 6
+      "2026-02-25": 92
     }
   },
   {
@@ -228,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-uk",
     "status": "up",
-    "uptime": "97.91%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.91%",
+    "uptime": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.92%",
     "time": 1506,
     "timeDay": 851,
     "timeWeek": 1391,
@@ -244,8 +240,7 @@
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
-      "2026-02-05": 438,
-      "2026-06-04": 6
+      "2026-02-05": 438
     }
   }
 ]
