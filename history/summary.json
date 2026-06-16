@@ -125,9 +125,9 @@
     "slug": "castlery-sg",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "97.74%",
     "time": 2824,
     "timeDay": 1415,
@@ -146,8 +146,7 @@
       "2026-06-07": 94,
       "2026-06-09": 143,
       "2026-06-10": 3,
-      "2026-06-14": 127,
-      "2026-06-16": 10
+      "2026-06-14": 127
     }
   },
   {
@@ -157,9 +156,9 @@
     "slug": "castlery-au",
     "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "97.73%",
     "time": 2528,
     "timeDay": 1489,
@@ -178,8 +177,7 @@
       "2026-06-07": 94,
       "2026-06-09": 143,
       "2026-06-10": 4,
-      "2026-06-14": 127,
-      "2026-06-16": 10
+      "2026-06-14": 127
     }
   },
   {
@@ -188,11 +186,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-us",
     "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.73%",
+    "uptime": "97.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.74%",
     "time": 660,
     "timeDay": 300,
     "timeWeek": 470,
@@ -210,8 +208,7 @@
       "2026-06-07": 94,
       "2026-06-09": 143,
       "2026-06-10": 4,
-      "2026-06-14": 126,
-      "2026-06-16": 10
+      "2026-06-14": 126
     }
   },
   {
@@ -221,9 +218,9 @@
     "slug": "castlery-ca",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "97.71%",
     "time": 936,
     "timeDay": 388,
@@ -243,8 +240,7 @@
       "2026-06-07": 94,
       "2026-06-09": 142,
       "2026-06-10": 4,
-      "2026-06-14": 126,
-      "2026-06-16": 10
+      "2026-06-14": 126
     }
   },
   {
@@ -254,9 +250,9 @@
     "slug": "castlery-uk",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "97.74%",
     "time": 1460,
     "timeDay": 876,
@@ -275,8 +271,7 @@
       "2026-06-07": 94,
       "2026-06-09": 141,
       "2026-06-10": 4,
-      "2026-06-14": 126,
-      "2026-06-16": 9
+      "2026-06-14": 126
     }
   }
 ]
