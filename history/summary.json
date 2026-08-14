@@ -60,9 +60,9 @@
     "url": "https://git.sr.ht/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sr.ht.ico",
     "slug": "source-hut-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.73%",
@@ -82,7 +82,8 @@
       "2026-04-04": 35,
       "2026-04-05": 109,
       "2026-04-06": 71,
-      "2026-07-15": 127
+      "2026-07-15": 127,
+      "2026-08-14": 0
     }
   },
   {
@@ -92,7 +93,7 @@
     "slug": "linkhut",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "79.23%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "95.67%",
     "uptimeMonth": "92.08%",
     "uptimeYear": "98.92%",
