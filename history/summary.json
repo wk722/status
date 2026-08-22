@@ -60,9 +60,9 @@
     "url": "https://git.sr.ht/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sr.ht.ico",
     "slug": "source-hut-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.72%",
@@ -83,7 +83,8 @@
       "2026-04-05": 109,
       "2026-04-06": 71,
       "2026-07-15": 127,
-      "2026-08-14": 79
+      "2026-08-14": 79,
+      "2026-08-22": 0
     }
   },
   {
@@ -236,11 +237,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-ca",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.20%",
     "time": 937,
     "timeDay": 1048,
     "timeWeek": 930,
