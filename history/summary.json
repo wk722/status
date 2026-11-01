@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 107,
-    "timeWeek": 101,
+    "timeWeek": 108,
     "timeMonth": 94,
-    "timeYear": 132,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2026-01-04": 24
     }
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 642,
     "timeDay": 765,
-    "timeWeek": 605,
+    "timeWeek": 618,
     "timeMonth": 639,
     "timeYear": 639,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 228,
-    "timeWeek": 272,
+    "timeWeek": 253,
     "timeMonth": 237,
     "timeYear": 277,
     "dailyMinutesDown": {}
@@ -64,12 +64,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1036,
     "timeDay": 845,
-    "timeWeek": 1068,
-    "timeMonth": 1050,
+    "timeWeek": 1108,
+    "timeMonth": 1051,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2026-03-06": 718,
@@ -94,17 +94,17 @@
     "url": "https://ln.ht/",
     "icon": "https://icons.duckduckgo.com/ip3/ln.ht.ico",
     "slug": "linkhut",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.96%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "96.56%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.73%",
-    "time": 1347,
-    "timeDay": 846,
-    "timeWeek": 1105,
-    "timeMonth": 922,
-    "timeYear": 1409,
+    "time": 1348,
+    "timeDay": 1420,
+    "timeWeek": 999,
+    "timeMonth": 954,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2026-01-23": 232,
       "2026-01-28": 18,
@@ -133,7 +133,8 @@
       "2026-08-12": 31,
       "2026-09-13": 346,
       "2026-10-25": 410,
-      "2026-10-24": 300
+      "2026-10-24": 300,
+      "2026-11-01": 0
     }
   },
   {
@@ -149,7 +150,7 @@
     "uptimeYear": "98.57%",
     "time": 2740,
     "timeDay": 3056,
-    "timeWeek": 3247,
+    "timeWeek": 3361,
     "timeMonth": 2816,
     "timeYear": 2740,
     "dailyMinutesDown": {
@@ -182,7 +183,7 @@
     "uptimeYear": "98.57%",
     "time": 2549,
     "timeDay": 2846,
-    "timeWeek": 2653,
+    "timeWeek": 2620,
     "timeMonth": 2646,
     "timeYear": 2549,
     "dailyMinutesDown": {
@@ -215,7 +216,7 @@
     "uptimeYear": "98.57%",
     "time": 673,
     "timeDay": 567,
-    "timeWeek": 555,
+    "timeWeek": 565,
     "timeMonth": 641,
     "timeYear": 673,
     "dailyMinutesDown": {
@@ -248,7 +249,7 @@
     "uptimeYear": "98.49%",
     "time": 902,
     "timeDay": 701,
-    "timeWeek": 644,
+    "timeWeek": 677,
     "timeMonth": 716,
     "timeYear": 902,
     "dailyMinutesDown": {
@@ -276,14 +277,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.castlery.com.ico",
     "slug": "castlery-uk",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.58%",
     "time": 1515,
     "timeDay": 1666,
-    "timeWeek": 1554,
+    "timeWeek": 1600,
     "timeMonth": 1601,
     "timeYear": 1515,
     "dailyMinutesDown": {
