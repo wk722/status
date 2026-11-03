@@ -94,17 +94,17 @@
     "url": "https://ln.ht/",
     "icon": "https://icons.duckduckgo.com/ip3/ln.ht.ico",
     "slug": "linkhut",
-    "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "83.17%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "96.00%",
-    "uptimeYear": "98.53%",
-    "time": 1350,
-    "timeDay": 2017,
-    "timeWeek": 1313,
-    "timeMonth": 1027,
-    "timeYear": 1414,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "71.95%",
+    "uptimeWeek": "88.04%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "98.50%",
+    "time": 1349,
+    "timeDay": 1569,
+    "timeWeek": 1254,
+    "timeMonth": 1018,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2026-01-23": 232,
       "2026-01-28": 18,
@@ -135,7 +135,7 @@
       "2026-10-25": 410,
       "2026-10-24": 300,
       "2026-11-01": 802,
-      "2026-11-03": 242
+      "2026-11-03": 404
     }
   },
   {
